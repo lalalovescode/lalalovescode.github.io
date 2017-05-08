@@ -4,10 +4,10 @@
     <title>Lydia Barrett</title>
     <description>Public Relations - Communications - Copywriting
 </description>
-    <link>http://localhost:4000/startbootstrap-freelancer-jekyll/</link>
-    <atom:link href="http://localhost:4000/startbootstrap-freelancer-jekyll/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 08 May 2017 12:27:07 +0100</pubDate>
-    <lastBuildDate>Mon, 08 May 2017 12:27:07 +0100</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 09 May 2017 00:44:09 +0100</pubDate>
+    <lastBuildDate>Tue, 09 May 2017 00:44:09 +0100</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -35,8 +35,8 @@
 
 </description>
         <pubDate>Sat, 06 Feb 2016 20:08:10 +0000</pubDate>
-        <link>http://localhost:4000/startbootstrap-freelancer-jekyll/portfolio/2016/02/06/flubit.html</link>
-        <guid isPermaLink="true">http://localhost:4000/startbootstrap-freelancer-jekyll/portfolio/2016/02/06/flubit.html</guid>
+        <link>http://localhost:4000/portfolio/2016/02/06/flubit.html</link>
+        <guid isPermaLink="true">http://localhost:4000/portfolio/2016/02/06/flubit.html</guid>
         
         
         <category>portfolio</category>
@@ -62,8 +62,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 05 Feb 2016 20:08:10 +0000</pubDate>
-        <link>http://localhost:4000/startbootstrap-freelancer-jekyll/portfolio/2016/02/05/sku-cloud.html</link>
-        <guid isPermaLink="true">http://localhost:4000/startbootstrap-freelancer-jekyll/portfolio/2016/02/05/sku-cloud.html</guid>
+        <link>http://localhost:4000/portfolio/2016/02/05/sku-cloud.html</link>
+        <guid isPermaLink="true">http://localhost:4000/portfolio/2016/02/05/sku-cloud.html</guid>
         
         
         <category>portfolio</category>
@@ -82,14 +82,16 @@
 
 &lt;p&gt;&lt;strong&gt;Key Coverage&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.dailystar.co.uk/diet-fitness/512839/Rogan-OConnor-Ex-On-The-Beach-Dreamboys-bodybuilder-diet-fitness-workout&quot; target=&quot;_blank&quot;&gt; Daily Star &lt;/a&gt;
-&lt;a href=&quot;http://www.dailymail.co.uk/femail/article-3654805/Obese-chef-driven-comfort-eat-childhood-bullies-drops-FIVE-STONE-size-8-body-dreams.html&quot; target=&quot;_blank&quot;&gt; The Mail Online &lt;/a&gt;
-&lt;a href=&quot;http://www.thesun.co.uk/sol/homepage/features/7124956/Man-sheds-SIX-STONE-to-beat-the-shame-of-pouring-with-sweat-after-just-ten-minutes-of-dancing.html&quot; target=&quot;_blank&quot;&gt; The Sun &lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.dailystar.co.uk/diet-fitness/512839/Rogan-OConnor-Ex-On-The-Beach-Dreamboys-bodybuilder-diet-fitness-workout&quot; target=&quot;_blank&quot;&gt; Daily Star &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.dailymail.co.uk/femail/article-3654805/Obese-chef-driven-comfort-eat-childhood-bullies-drops-FIVE-STONE-size-8-body-dreams.html&quot; target=&quot;_blank&quot;&gt; The Mail Online &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.thesun.co.uk/sol/homepage/features/7124956/Man-sheds-SIX-STONE-to-beat-the-shame-of-pouring-with-sweat-after-just-ten-minutes-of-dancing.html&quot; target=&quot;_blank&quot;&gt; The Sun &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 </description>
         <pubDate>Thu, 04 Feb 2016 20:08:10 +0000</pubDate>
-        <link>http://localhost:4000/startbootstrap-freelancer-jekyll/portfolio/2016/02/04/xercise-4-less.html</link>
-        <guid isPermaLink="true">http://localhost:4000/startbootstrap-freelancer-jekyll/portfolio/2016/02/04/xercise-4-less.html</guid>
+        <link>http://localhost:4000/portfolio/2016/02/04/xercise-4-less.html</link>
+        <guid isPermaLink="true">http://localhost:4000/portfolio/2016/02/04/xercise-4-less.html</guid>
         
         
         <category>portfolio</category>
@@ -109,14 +111,15 @@
 &lt;p&gt;&lt;strong&gt;Key Coverage&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/open?id=0ByYbwrwqvpgfUnlHTDdnWVVvcE0&quot; target=&quot;_blank&quot;&gt; Stylist Arabia &lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.express.co.uk/travel/activity/795375/morzine-travel-guide-france&quot; target=&quot;_blank&quot;&gt; The Daily Express &lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://mail.google.com/mail/u/0/#search/chilly+powder/154c9432e7d23cf4?projector=1&quot; target=&quot;_blank&quot;&gt; Gallery Magazine &lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.juniormagazine.co.uk/travel-reviews/a-ski-holiday-at-chilly-powder-au-coin-du-feu-chalet-in-france-family-travel-review/20666.html&quot; target=&quot;_blank&quot;&gt; Junior Magazine &lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 03 Feb 2016 20:08:10 +0000</pubDate>
-        <link>http://localhost:4000/startbootstrap-freelancer-jekyll/portfolio/2016/02/03/chilly-powder.html</link>
-        <guid isPermaLink="true">http://localhost:4000/startbootstrap-freelancer-jekyll/portfolio/2016/02/03/chilly-powder.html</guid>
+        <link>http://localhost:4000/portfolio/2016/02/03/chilly-powder.html</link>
+        <guid isPermaLink="true">http://localhost:4000/portfolio/2016/02/03/chilly-powder.html</guid>
         
         
         <category>portfolio</category>
@@ -138,13 +141,13 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.huffingtonpost.co.uk/author/jake-dennis&quot; target=&quot;_blank&quot;&gt; The Huffington Post &lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.itv.com/news/meridian/update/2016-06-17/kent-motor-racing-team-geared-up-for-le-mans/&quot; target=&quot;_blank&quot;&gt; ITV &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Motorsport Magazine&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/0ByYbwrwqvpgfVENlaXZXdUtTQ3REVVE3bGg3c3QyZDRVTVdj/view&quot; target=&quot;_blank&quot;&gt; Motorsport Magazine &lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.bbc.co.uk/programmes/p03wfksb&quot; target=&quot;_blank&quot;&gt; BBC &lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 02 Feb 2016 20:08:10 +0000</pubDate>
-        <link>http://localhost:4000/startbootstrap-freelancer-jekyll/portfolio/2016/02/02/jota-sport.html</link>
-        <guid isPermaLink="true">http://localhost:4000/startbootstrap-freelancer-jekyll/portfolio/2016/02/02/jota-sport.html</guid>
+        <link>http://localhost:4000/portfolio/2016/02/02/jota-sport.html</link>
+        <guid isPermaLink="true">http://localhost:4000/portfolio/2016/02/02/jota-sport.html</guid>
         
         
         <category>portfolio</category>
@@ -152,7 +155,7 @@
       </item>
     
       <item>
-        <title>Charlie Mullins</title>
+        <title>Pimlico Plumbers</title>
         <description>&lt;p&gt;&lt;strong&gt;Brief&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Self-made millionaire and former apprentice, Charlie Mullins wanted to increase his business profile and develop a political presence as an advocate of apprenticeships for young people.&lt;/p&gt;
@@ -170,8 +173,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 01 Feb 2016 20:08:10 +0000</pubDate>
-        <link>http://localhost:4000/startbootstrap-freelancer-jekyll/portfolio/2016/02/01/charlie-mullins.html</link>
-        <guid isPermaLink="true">http://localhost:4000/startbootstrap-freelancer-jekyll/portfolio/2016/02/01/charlie-mullins.html</guid>
+        <link>http://localhost:4000/portfolio/2016/02/01/pimlico.html</link>
+        <guid isPermaLink="true">http://localhost:4000/portfolio/2016/02/01/pimlico.html</guid>
         
         
         <category>portfolio</category>
