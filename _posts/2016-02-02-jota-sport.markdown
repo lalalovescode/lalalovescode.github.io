@@ -19,5 +19,5 @@ Working closely with the team and international sponsors, key information behind
 
 * <a href="http://www.huffingtonpost.co.uk/author/jake-dennis" target="_blank"> The Huffington Post </a>
 * <a href="http://www.itv.com/news/meridian/update/2016-06-17/kent-motor-racing-team-geared-up-for-le-mans/" target="_blank"> ITV </a>
-* Motorsport Magazine
+* <a href="https://drive.google.com/file/d/0ByYbwrwqvpgfVENlaXZXdUtTQ3REVVE3bGg3c3QyZDRVTVdj/view" target="_blank"> Motorsport Magazine </a>
 * <a href="http://www.bbc.co.uk/programmes/p03wfksb" target="_blank"> BBC </a>

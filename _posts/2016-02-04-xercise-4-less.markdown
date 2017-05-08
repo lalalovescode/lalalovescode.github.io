@@ -17,7 +17,7 @@ Through communication with various franchisees, members with notable transformat
 
 **Key Coverage**
 
-<a href="http://www.dailystar.co.uk/diet-fitness/512839/Rogan-OConnor-Ex-On-The-Beach-Dreamboys-bodybuilder-diet-fitness-workout" target="_blank"> Daily Star </a>
-<a href="http://www.dailymail.co.uk/femail/article-3654805/Obese-chef-driven-comfort-eat-childhood-bullies-drops-FIVE-STONE-size-8-body-dreams.html" target="_blank"> The Mail Online </a>
-<a href="http://www.thesun.co.uk/sol/homepage/features/7124956/Man-sheds-SIX-STONE-to-beat-the-shame-of-pouring-with-sweat-after-just-ten-minutes-of-dancing.html" target="_blank"> The Sun </a>
+* <a href="http://www.dailystar.co.uk/diet-fitness/512839/Rogan-OConnor-Ex-On-The-Beach-Dreamboys-bodybuilder-diet-fitness-workout" target="_blank"> Daily Star </a>
+* <a href="http://www.dailymail.co.uk/femail/article-3654805/Obese-chef-driven-comfort-eat-childhood-bullies-drops-FIVE-STONE-size-8-body-dreams.html" target="_blank"> The Mail Online </a>
+* <a href="http://www.thesun.co.uk/sol/homepage/features/7124956/Man-sheds-SIX-STONE-to-beat-the-shame-of-pouring-with-sweat-after-just-ten-minutes-of-dancing.html" target="_blank"> The Sun </a>
 
