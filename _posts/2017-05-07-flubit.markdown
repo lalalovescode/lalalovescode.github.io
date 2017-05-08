@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Flubit.com"
+date:   2016-02-06 15:08:10 -0500
+img: img/portfolio/flubit.svg
+modalID: modalFlubit
+category: portfolio
+---
+**Brief**
+
+Online marketplace Flubit.com wanted to use PR to reinforce their marketing activity, with an aim to increase brand awareness and site traffic.
+
+**Creativity & Execution**
+
+Capitalizing on the news agenda and consumer hooks, articles were produced to position Flubit as a money saving alternative to Amazon. Additional stories were produced in line with targeted verticals of the site, to drive further sales within these categories.
+
+Flubit was also profiled on a B2B level to showcase the company to the wider business community. Personnel profiling and thought leadership articles were placed in selected titles, to strengthen Flubit’s position as an influential UK startup.
+
+**Key Coverage**
+
+* <a href="https://www.my5.tv/the-gadget-show/season-25/episode-2" target="_blank">The Gadget Show</a>
+* <a href="https://www.dreamteamfc.com/c/revealed-here-are-the-cheapest-places-to-buy-fifa-17" target="_blank"> The Sun </a>
+* <a href="http://www.telegraph.co.uk/black-friday/0/13-black-friday-shopping-hacks-how-to-shop-online-like-a-pro/"> The Telegraph </a>
+* <a href="http://edition.pagesuite-professional.co.uk/launch.aspx?EID=71147b14-a6f9-4948-8e4f-bbaccbf65ed8&pnum=24"> British Airways Business Life </a>
+* <a href="http://techcitynews.com/2016/11/11/trumps-appointment-means-uk-tech"> Tech City News </a>
+* <a href="https://live.retail-week.com/speakers/steph-fiala"> Retail Week Live </a>
+

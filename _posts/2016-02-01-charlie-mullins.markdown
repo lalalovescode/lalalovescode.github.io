@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Charlie Mullins"
+date:   2016-02-01 15:08:10 -0500
+img: img/portfolio/pimlico.svg
+modalID: modalPimlico
+category: portfolio
+---
+**Brief**
+
+Self-made millionaire and former apprentice, Charlie Mullins wanted to increase his business profile and develop a political presence as an advocate of apprenticeships for young people.
+
+**Innovation & execution**
+
+Capitalising on Charlie’s outspoken voice in politics and charismatic team plumbers, broadcast opportunities were secured to show the plumbers and their apprentices in action. Comments from Charlie were also placed in line with the wider news agenda, reiterating Charlie’s position as a passionate political commentator.
+
+**Key Coverage**
+
+* <a href="http://www.pimlicoplumbers.com/media/pimlico-on-tv/the-daily-poiltics/nick-boles-mp-with-pimlico-s-apprentice" target="_blank"> BBC Daily Politics </a>
+* <a href="http://www.pimlicoplumbers.com/media/pimlico-on-tv/bbc1-oxford-street-revealed/dave-helps-the-beauty-shop" target="_blank"> BBC 1 </a>
+* <a href="http://www.cityam.com/226387/pimlico-pumbers-boss-charlie-mullins-resigns-from-business-for-britain-over-eu-exit-campaign" target="_blank"> City Am </a>

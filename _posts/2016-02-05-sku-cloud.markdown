@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "SKU Cloud"
+date:   2016-02-05 15:08:10 -0500
+img: img/portfolio/sku-cloud.svg
+modalID: modalSkuCloud
+category: portfolio
+---
+
+**Brief**
+
+SKU Cloud, the B2B arm of Flubit.com, wanted to strengthen its presence within relevant trade outlets in order to increase registrations.
+
+**Creativity & Execution**
+
+SKU Cloud’s existing customer data and merchant experiences were utilized in line with topical industry news, positing the site as an authoritative voice in E-Commerce. Bespoke content was also created in order to showcase potential value to prospective users.
+
+**Key Coverage**
+
+* <a href="http://tamebay.com/2016/11/ons-reveals-post-brexit-online-spending-up.html" target="_blank"> Tamebay </a>
+* <a href="http://tamebay.com/2016/11/flubit-unveils-retail-technology-platform-skucloud-co-uk.html" target="_blank"> Tamebay </a>
+* <a href="https://tamebay.com/2017/04/how-to-sell-on-the-new-flubit-marketplace.html" target="_blank"> Tamebay </a>
